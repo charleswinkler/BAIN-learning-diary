@@ -1,5 +1,5 @@
 ---
-title: Lerntagebuch auf GitHub für HS2020
+Titelchen: Lerntagebuch auf GitHub für HS2020
 ---
 
 ## Hallihallo 
