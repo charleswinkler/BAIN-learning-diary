@@ -18,5 +18,5 @@ An und für sich klingt das alles sehr gut und es ist sehr löblich, dass man di
 Auch werden wir lernen, wie man eine Suchmaschine konfigueren kann. Das klingt fürs Erste sehr interessant. Was man dann aber damit genau macht, erschliesst sich mir noch nicht. Meine Hoffnung ist vor allem, dass wir keine einzelnen Befehlszeilen aus dem Stegreif beherrschen müssen, sondern es immer eine Dokumentation gibt, welches helfend erläutert, wie man etwas macht, wenn man es umsetzen will. 
 
 ## Fazit zum Einleitungsartikel
-Ich bin ein offener Krug, und lasse mich gerne befüllen. 
+Ich habe keine grosse Ahnung, bin aber lernbereit und lernwillig. Das wird so oder so auf jeden Fall ein interessantes Fach werden, genauso, wie wir alle in einem interessanten Jahr sind, und interessante Sachen kennenlernen. 
 
