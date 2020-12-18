@@ -8,7 +8,7 @@ Herzlichst willkommen. Ich werde hier blogmässig darüber schreiben, was ich im
 
 <a href="https://charleswinkler.github.io/2020/09/10/einfuehrung.html">Einführungsartikel, bei der man nachlesen kann, mit was ich gestartet habe.</a>
 
-<a href="https://charleswinkler.github.io/2020/09/10/tag1.html">as ich am 1. Tag bezüglich technische Grundlagen erfahren habe.</a> 
+<a href="https://charleswinkler.github.io/2020/09/10/tag1.html">Was ich am 1. Tag bezüglich technische Grundlagen erfahren habe.</a> 
 
 <a href="https://charleswinkler.github.io/2020/09/25/tag2.htWml">Wie ich am 2. Tag Funktion und Aufbau von Bibliothekssystemen kennengelernt habe.</a>
 
