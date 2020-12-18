@@ -6,28 +6,26 @@ Titel: Lerntagebuch auf GitHub für HS2020
 
 Herzlichst willkommen. Ich werde hier blogmässig darüber schreiben, was ich im im Kurs **Bibliotheks- und Archivinformatik** gelernt habe. Ich wette, dass ich das meiste aber selber vergessen werde. 
 
-[Einführungsartikel, bei der man nachlesen kann, mit was ich gestartet habe.](https://charleswinkler.github.io/2020-09-10-einfuehrung.md)
-
 <a href="https://charleswinkler.github.io/2020/09/10/einfuehrung.html">Einführungsartikel, bei der man nachlesen kann, mit was ich gestartet habe.</a>
 
-[Was ich am 1. Tag bezüglich technische Grundlagen erfahren habe. ](https://charleswinkler.github.io/_posts/2020-09-10-tag1.md)
+<a href="https://charleswinkler.github.io/2020/09/10/tag1.html">as ich am 1. Tag bezüglich technische Grundlagen erfahren habe.</a> 
 
-[Wie ich am 2. Tag Funktion und Aufbau von Bibliothekssystemen kennengelernt habe.](https://charleswinkler.github.io/_posts/2020-09-25-tag2.md)
+<a href="https://charleswinkler.github.io/2020/09/25/tag2.htWml">Wie ich am 2. Tag Funktion und Aufbau von Bibliothekssystemen kennengelernt habe.</a>
 
-[Was ich am 3. Tag weiterhin zum Thema Funktion und Aufbau von Bibliothekssystemen gemacht habe.](https://github.com/charleswinkler/charleswinkler.github.io/blob/master/_posts/2020-10-02-tag3.md)
+<a href="https://charleswinkler.github.io/2020/10/02/tag3.html">Was ich am 3. Tag weiterhin zum Thema Funktion und Aufbau von Bibliothekssystemen gemacht habe.</a>
 
-[Wie ich dann am 4. Tag zur Funktion und Aufbau von Archivsystemen hinzugestossen bin.](https://github.com/charleswinkler/charleswinkler.github.io/blob/master/_posts/2020-10-09-tag4.md)
+<a href="https://charleswinkler.github.io/2020/10/09/tag4.html">Wie ich dann am 4. Tag zur Funktion und Aufbau von Archivsystemen hinzugestossen bin.</a>
 
-[Was ich am 5. Tag angestellt habe mit Repository-Software für Publikationen und Forschungsdaten.](https://github.com/charleswinkler/charleswinkler.github.io/blob/master/_posts/2020-10-09-tag5.md)
+<a href="https://charleswinkler.github.io/2020/10/09/tag5.html">Was ich am 5. Tag angestellt habe mit Repository-Software für Publikationen und Forschungsdaten.</a>
 
-[Wie ich am 6. Tag versuche, Metadaten zu modellieren und Schnittstellen zu nutzen.](https://github.com/charleswinkler/charleswinkler.github.io/blob/master/_posts/2020-10-30-tag6.md)
+<a href="https://charleswinkler.github.io/2020/10/30/tag6.html">Wie ich am 6. Tag versuche, Metadaten zu modellieren und Schnittstellen zu nutzen.</a>
 
-[Wie ich am 7, Tag nochmals beim Metadaten modellieren und Schnittstellen nutzen gemacht habe.](https://github.com/charleswinkler/charleswinkler.github.io/blob/master/_posts/2020-11-20-tag7.md)
+<a href="https://charleswinkler.github.io/2020/11/20/tag7.html">Wie ich am 7, Tag nochmals beim Metadaten modellieren und Schnittstellen nutzen gemacht habe. </a>
 
-[Was ich am 8. Tag gelernt habe zu Suchmaschinen und Discovery-Systeme. ](https://github.com/charleswinkler/charleswinkler.github.io/blob/master/_posts/2020-11-27-tag8.md)
+<a href="https://charleswinkler.github.io/2020/11/27/tag8.html">Was ich am 8. Tag gelernt habe zu Suchmaschinen und Discovery-Systeme.</a>
 
-[Was ich am 9. Tag mit den Suchmaschinen und Discovery-Systeme auch gemacht habe.](https://github.com/charleswinkler/charleswinkler.github.io/blob/master/_posts/2020-12-11-tag9.md)
+<a href="https://charleswinkler.github.io/2020/12/11/tag9.html">Was ich am 9. Tag mit den Suchmaschinen und Discovery-Systeme auch gemacht habe.</a>
 
-[Was ich am 10. Tag über die Zukunft mit Linked Data wissen werde.](https://github.com/charleswinkler/charleswinkler.github.io/blob/master/_posts/2020-12-18-tag10.md)
+<a href="https://charleswinkler.github.io/2020/12/18/tag10.html">Was ich am 10. Tag über die Zukunft mit Linked Data wissen werde.</a>
 
-[Abschlussartikel, wo ich mein Fazit ziehe. ](https://github.com/charleswinkler/charleswinkler.github.io/blob/master/_posts/2020-12-18-abschluss.md)
+<a href="https://charleswinkler.github.io/2020/12/18/abschluss.html">Abschlussartikel, wo ich mein Fazit ziehe.</a>
