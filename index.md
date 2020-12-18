@@ -16,11 +16,11 @@ Herzlichst willkommen. Ich werde hier blogmässig darüber schreiben, was ich im
 
 <a href="https://charleswinkler.github.io/2020/10/09/tag4.html">Wie ich dann am 4. Tag zur Funktion und Aufbau von Archivsystemen hinzugestossen bin.</a>
 
-<a href="https://charleswinkler.github.io/2020/10/09/tag5.html">Was ich am 5. Tag angestellt habe mit Repository-Software für Publikationen und Forschungsdaten.</a>
+<a href="https://charleswinkler.github.io/2020/10/16/tag5.html">Was ich am 5. Tag angestellt habe mit Repository-Software für Publikationen und Forschungsdaten.</a>
 
 <a href="https://charleswinkler.github.io/2020/10/30/tag6.html">Wie ich am 6. Tag versuche, Metadaten zu modellieren und Schnittstellen zu nutzen.</a>
 
-<a href="https://charleswinkler.github.io/2020/11/20/tag7.html">Wie ich am 7, Tag nochmals beim Metadaten modellieren und Schnittstellen nutzen gemacht habe. </a>
+<a href="https://charleswinkler.github.io/2020/11/20/tag7.html">Wie ich am 7. Tag nochmals beim Metadaten modellieren und Schnittstellen nutzen gemacht habe. </a>
 
 <a href="https://charleswinkler.github.io/2020/11/27/tag8.html">Was ich am 8. Tag gelernt habe zu Suchmaschinen und Discovery-Systeme.</a>
 
