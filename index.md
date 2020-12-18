@@ -4,7 +4,7 @@ Titel: Lerntagebuch auf GitHub für HS2020
 
 ## Hallihallo 
 
-Herzlichst willkommen. Ich werde hier blogmässig darüber schreiben, was ich im im Kurs **Bibliotheks- und Archivinformatik** gelernt habe. Ich wette, dass ich das meiste aber selber vergessen werde. 
+Herzlichst willkommen. Ich werde hier blogmässig darüber schreiben, was ich im im Kurs **Bibliotheks- und Archivinformatik** gelernt habe. Ich wette, dass ich das meiste aber selber vergessen werde. Hier sind meine Links zu den jeweiligen Lektionen. 
 
 <a href="https://charleswinkler.github.io/2020/09/10/einfuehrung.html">Einführungsartikel, bei der man nachlesen kann, mit was ich gestartet habe.</a>
 
