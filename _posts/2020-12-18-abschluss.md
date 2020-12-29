@@ -2,7 +2,7 @@
 title: "Abschlussartikel"
 date: 2020-12-18
 ---
-
+# Das Ende ist gekommen
 Puh. Das Schicksalsjahr 2020 nähert sich dem Ende. Bald gibt es eine Impfung gegen die gefürchtete Pandemie. Global verändern sich die politischen Machtverhältnisse. Es stehen uns interessante Zeiten bevor, wie es ein chinesischer Fluch ausdrückt. Und hier bin ich, ein angehender Student in der Informationswissenschaft, welches im momentanen Schwerpunkt Archivwesen darüber sinniere, was ich alles zu diesem Unterrichtsmodul für Erkenntnisse gewonnen habe. 
 
 # Welche Erkenntnisse ich insgesamt aus BAIN ziehe
